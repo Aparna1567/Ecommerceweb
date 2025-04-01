@@ -1,5 +1,5 @@
 import React from 'react';
-import img from '../assets/img/collection.png';
+import img from '../../public/images/collection.png';
 
 const Collections = () => {
   return (
