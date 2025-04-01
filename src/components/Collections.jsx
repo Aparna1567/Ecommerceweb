@@ -1,5 +1,5 @@
 import React from 'react';
-import img from '../../public/images/collection.png';
+import img from "../assets/collection.webp";
 
 const Collections = () => {
   return (
